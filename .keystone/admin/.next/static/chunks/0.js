@@ -2,7 +2,7 @@
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js":
 /*!*******************************************************************************************************************************************!*\
-  !*** /Users/david/Desktop/Projects/farmers-market-backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js ***!
+  !*** /Users/david/Desktop/Projects/advanced-react-backend/node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js ***!
   \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
